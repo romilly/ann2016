@@ -1,0 +1,1 @@
+# Excercises and code for the Dyalog 2016 ANN workshop
